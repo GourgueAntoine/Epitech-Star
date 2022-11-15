@@ -1,0 +1,1 @@
+Pour modifier le paramètre, il faut se rendre sur Epitech_star_Antoine_Gourgue/Epitech_star_Antoine_Gourgue.cpp puis modifier dans le int main le paramètre de la fonction FinalPiramid.
